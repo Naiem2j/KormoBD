@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="460" fill="#00b894"/>
+  <text x="540" y="120" font-size="44" text-anchor="middle" fill="#fff" font-family="Arial">Create Account</text>
+
+  <rect x="60" y="560" width="960" height="1460" rx="28" fill="#fcfdff" stroke="#e9eef6"/>
+
+  <text x="120" y="660" font-size="20" fill="#222" font-family="Arial">Full name</text>
+  <rect x="120" y="680" width="840" height="84" rx="12" fill="#fff" stroke="#e0e6f0"/>
+
+  <text x="120" y="790" font-size="20" fill="#222" font-family="Arial">Email</text>
+  <rect x="120" y="810" width="840" height="84" rx="12" fill="#fff" stroke="#e0e6f0"/>
+
+  <text x="120" y="920" font-size="20" fill="#222" font-family="Arial">Password</text>
+  <rect x="120" y="940" width="840" height="84" rx="12" fill="#fff" stroke="#e0e6f0"/>
+
+  <rect x="120" y="1060" width="840" height="84" rx="12" fill="#fd79a8"/>
+  <text x="540" y="1120" font-size="22" text-anchor="middle" fill="#fff" font-family="Arial" font-weight="700">Create account</text>
+
+  <text x="120" y="1230" font-size="16" fill="#777">By creating an account you agree to our Terms</text>
+</svg>

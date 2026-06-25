@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="220" fill="#ff9f43"/>
+  <text x="60" y="140" font-size="32" fill="#fff" font-family="Arial" font-weight="700">Admin Dashboard</text>
+
+  <rect x="60" y="260" width="440" height="180" rx="16" fill="#ffe9c6" stroke="#ffd8a8"/>
+  <text x="80" y="340" font-size="22" fill="#222">Total Users</text>
+  <text x="480" y="340" font-size="36" fill="#222" text-anchor="end">1,234</text>
+
+  <rect x="600" y="260" width="420" height="180" rx="16" fill="#e6f7ff" stroke="#bfe9ff"/>
+  <text x="620" y="340" font-size="22" fill="#222">Open Jobs</text>
+  <text x="980" y="340" font-size="36" fill="#222" text-anchor="end">56</text>
+
+  <rect x="60" y="480" width="960" height="140" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="560" font-size="20" fill="#222">Recent activity</text>
+
+</svg>

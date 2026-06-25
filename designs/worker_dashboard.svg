@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="220" fill="#00cec9"/>
+  <text x="60" y="140" font-size="32" fill="#fff" font-family="Arial" font-weight="700">Worker Dashboard</text>
+
+  <rect x="60" y="260" width="960" height="140" rx="16" fill="#ffe6f0" stroke="#ff9ff3"/>
+  <text x="120" y="340" font-size="22" fill="#222">Recommended Jobs</text>
+
+  <rect x="60" y="420" width="960" height="140" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="490" font-size="20" fill="#222">Delivery Rider</text>
+  <text x="960" y="490" font-size="18" text-anchor="end" fill="#0984e3">Apply</text>
+
+  <rect x="60" y="580" width="960" height="140" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="650" font-size="20" fill="#222">Warehouse Helper</text>
+  <text x="960" y="650" font-size="18" text-anchor="end" fill="#0984e3">Apply</text>
+
+  <rect x="0" y="2140" width="1080" height="200" fill="#f1f3f6"/>
+  <text x="180" y="2270" font-size="20" fill="#666">Jobs</text>
+  <text x="540" y="2270" font-size="20" fill="#00cec9">Profile</text>
+</svg>

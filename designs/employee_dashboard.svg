@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="220" fill="#0984e3"/>
+  <text x="60" y="140" font-size="32" fill="#fff" font-family="Arial" font-weight="700">Employee Dashboard</text>
+
+  <rect x="60" y="260" width="960" height="200" rx="20" fill="#ffeaa7" stroke="#ffd166"/>
+  <text x="120" y="340" font-size="28" fill="#2d3436" font-family="Arial">Active Jobs</text>
+  <text x="960" y="340" font-size="20" text-anchor="end" fill="#2d3436" font-family="Arial">12</text>
+
+  <!-- Job cards -->
+  <rect x="60" y="480" width="960" height="140" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="540" font-size="20" fill="#222">UI Designer</text>
+  <text x="120" y="580" font-size="16" fill="#666">Acme Co • Dhaka</text>
+
+  <rect x="60" y="640" width="960" height="140" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="700" font-size="20" fill="#222">Frontend Developer</text>
+  <text x="120" y="740" font-size="16" fill="#666">Beta LLC • Remote</text>
+
+  <!-- Bottom nav -->
+  <rect x="0" y="2140" width="1080" height="200" fill="#f1f3f6"/>
+  <text x="180" y="2270" font-size="20" fill="#666" font-family="Arial">Home</text>
+  <text x="540" y="2270" font-size="20" fill="#6c5ce7">Post</text>
+  <text x="900" y="2270" font-size="20" fill="#666">Profile</text>
+</svg>

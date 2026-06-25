@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037348525919",
+    "project_id": "kormobd-001",
+    "storage_bucket": "kormobd-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037348525919:android:0aab89b1fed18cc79d88ea",
+        "android_client_info": {
+          "package_name": "com.example.kormobd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037348525919-h9cu6niiue6n97p8tjbh8p2f6263pv90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf4VA_cwLl0ei7pIa3inazE-hvOecvkBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037348525919-h9cu6niiue6n97p8tjbh8p2f6263pv90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff6b6b"/>
+      <stop offset="1" stop-color="#fcb045"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="520" fill="url(#g1)" rx="0"/>
+  <circle cx="180" cy="220" r="80" fill="#fff" opacity="0.15"/>
+  <text x="540" y="160" font-size="48" text-anchor="middle" fill="#ffffff" font-family="Arial">App Logo</text>
+
+  <!-- Card -->
+  <rect x="60" y="560" width="960" height="1180" rx="28" fill="#f8f9fb" stroke="#e6e9ef"/>
+
+  <!-- Title -->
+  <text x="120" y="660" font-size="36" fill="#222" font-family="Arial" font-weight="700">Welcome back</text>
+  <text x="120" y="710" font-size="18" fill="#666" font-family="Arial">Sign in to continue to your account</text>
+
+  <!-- Email field -->
+  <rect x="120" y="760" width="840" height="84" rx="12" fill="#fff" stroke="#e0e6f0"/>
+  <text x="144" y="815" font-size="20" fill="#9aa3b2" font-family="Arial">Email</text>
+
+  <!-- Password field -->
+  <rect x="120" y="868" width="840" height="84" rx="12" fill="#fff" stroke="#e0e6f0"/>
+  <text x="144" y="923" font-size="20" fill="#9aa3b2" font-family="Arial">Password</text>
+
+  <!-- Login button -->
+  <rect x="120" y="990" width="360" height="84" rx="12" fill="#6c5ce7"/>
+  <text x="300" y="1046" font-size="22" fill="#fff" font-family="Arial" font-weight="700">Login</text>
+
+  <!-- Social / links -->
+  <text x="540" y="1060" font-size="16" text-anchor="middle" fill="#666" font-family="Arial">Or continue with</text>
+
+  <!-- Footer -->
+  <text x="540" y="1660" font-size="16" text-anchor="middle" fill="#666" font-family="Arial">Don’t have an account? Create one</text>
+
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2340" viewBox="0 0 1080 2340">
+  <rect width="1080" height="2340" fill="#fff"/>
+  <rect x="0" y="0" width="1080" height="200" fill="#6c5ce7"/>
+  <text x="60" y="130" font-size="28" fill="#fff">Applications</text>
+
+  <rect x="60" y="240" width="960" height="160" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="320" font-size="20" fill="#222">John Doe</text>
+  <text x="120" y="360" font-size="16" fill="#666">Applied for: UI Designer</text>
+  <text x="960" y="320" font-size="18" text-anchor="end" fill="#00b894">View</text>
+
+  <rect x="60" y="420" width="960" height="160" rx="12" fill="#fff" stroke="#e6e9ef"/>
+  <text x="120" y="500" font-size="20" fill="#222">Aisha Khan</text>
+  <text x="120" y="540" font-size="16" fill="#666">Applied for: Frontend Dev</text>
+  <text x="960" y="500" font-size="18" text-anchor="end" fill="#00b894">View</text>
+
+</svg>
